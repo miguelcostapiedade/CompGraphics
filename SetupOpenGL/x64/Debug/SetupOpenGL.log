@@ -1,0 +1,6 @@
+﻿  SetupOpenGL.cpp
+C:\Users\Miguel\Desktop\SetupOpenGL\SetupOpenGL\SetupOpenGL.cpp(36,14): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Miguel\Desktop\SetupOpenGL\SetupOpenGL\SetupOpenGL.cpp(37,14): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Miguel\Desktop\SetupOpenGL\SetupOpenGL\SetupOpenGL.cpp(415,22): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\Miguel\Desktop\SetupOpenGL\SetupOpenGL\SetupOpenGL.cpp(423,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SetupOpenGL.vcxproj -> C:\Users\Miguel\Desktop\SetupOpenGL\x64\Debug\SetupOpenGL.exe
